@@ -1,0 +1,2 @@
+/* rev-c8a21f-20260927 */
+v1.5 sep 22 2026: opus 5.5 default, 1m context, 4/20 pricing
